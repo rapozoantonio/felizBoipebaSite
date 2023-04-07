@@ -1,0 +1,313 @@
+/* ------------------------------------------------------------------[
+Color Stylesheet]
+Project:PARK HOTEL
+Version:1.1
+Last change: 26.05.2015
+Assigned to:http://themeforest.net/user/chaykovskiy
+Primary use: PARK HOTEL HTML Template 
+
+-------------------------------------------------------------------
+   ================================================== */
+
+/* !------------------------------ Main color of template #cca770 ------------------------------
+   ================================================== */
+
+.menu-wrap a:focus,
+.arrow_right:hover,
+.arrow_left:hover,
+.photo figure figcaption,
+.photo figure h2 span,
+.contact_icon,
+.footer .link:hover,
+a.navbar-brand:hover,
+.navbar_bg_dark .active a,
+.button--itzel.dark.active,
+.texticon,
+.count,
+.cs-skin-border .cs-options,
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_today,
+.index_color,
+.count_plus,
+#swipebox-prev,
+#swipebox-next,
+#swipebox-close,
+#swipebox-bottom-bar,
+.navbar a:hover,
+#swipebox-title,
+.accommodation_item .room_title i,
+.contact a,
+.copyright span {
+    color: #cca770
+}
+.contact_icon:hover,
+a.accordion_button:hover,
+.accordion_button:hover,
+.cs-skin-border.cs-active>span,
+.tooltip-inner,
+.reservation input:focus,
+.contact_form input:focus,
+.reservation input[type=submit]:hover,
+.contact_form input[type=submit]:hover,
+.reservation textarea:focus,
+.contact_form textarea:focus,
+.navbar-toggle,
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover,
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover,
+.xdsoft_datetimepicker .xdsoft_label>.xdsoft_select>div>.xdsoft_option:hover,
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box>div>div.xdsoft_current,
+.xdsoft_datetimepicker .xdsoft_calendar td:hover,
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box>div>div:hover,
+#preloader{
+    background: #cca770
+}
+.first_line,
+.tabs_about .active a,
+a.accordion_button,
+.accordion_button,
+.photo_carousel_ind.active,
+.contact_icon,
+.active.button--itzel,
+figure.parkhotel_img figcaption::before,
+.eventime_modal .contact_icon:hover,
+.cs-skin-border>span,
+.cs-skin-border .cs-options,
+.cs-select ul,
+.reservation input:focus,
+.reservation input[type=submit]:hover,
+.reservation textarea:focus,
+.contact_form input:focus,
+.contact_form input[type=submit]:hover,
+.contact_form textarea:focus,
+.xdsoft_datetimepicker .xdsoft_label>.xdsoft_select>div>.xdsoft_option.xdsoft_current,
+.news_row,
+.menu .conctact,
+.contact_form,
+.menu .logo,
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover,
+footer,
+.center_line {
+    border-color: #cca770
+}
+
+/* !------ SVG ------
+   ================================================== */
+
+.photo_carousel .right_arrow svg:hover,
+.photo_carousel .left_arrow svg:hover,
+#sponsors .left_arrow svg,
+#sponsors .right_arrow svg,
+#sh_carousel .right_arrow svg:hover,
+#sh_carousel .left_arrow svg:hover,
+.light .right_arrow svg:hover,
+.light .left_arrow svg:hover,
+#home_slider .left_arrow,
+#home_slider .right_arrow {
+    fill: #cca770
+}
+/* !------------------------------ All light part color #fff ------------------------------
+   ================================================== */
+
+.button--itzel,
+.description h2,
+.description h3,
+.details,
+.tab-content,
+.button--itzel .button__icon,
+.tabs_about .active a,
+.mask .first_title,
+.mask .first_description,
+.photo figure h2,
+a.accordion_button:hover,
+.accordion_button:hover,
+.reservation_button:hover,
+.reservation input:focus,
+.reservation textarea:focus,
+.contact_form input:focus,
+.contact_form textarea:focus,
+.navbar_bg_dark a,
+.buttons a.active,
+.light,
+.description #clock,
+.cs-skin-border.cs-active>span,
+.xdsoft_datetimepicker .xdsoft_label>.xdsoft_select>div>.xdsoft_option:hover,
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box>div>div.xdsoft_current,
+.xdsoft_datetimepicker .xdsoft_calendar td:hover,
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box>div>div:hover,
+#filterOptions li a {
+    color: #fff
+}
+.menu-wrap,
+.news_row,
+a.accordion_button,
+.accordion_button,
+.contact_form,
+#swipebox-overlay,
+#swipebox-bottom-bar,
+#swipebox-top-bar {
+    background-color: #fff
+}
+.menu-button::before {
+    background: linear-gradient(#fff 20%, transparent 20%, transparent 40%, #fff 40%, #fff 60%, transparent 60%, transparent 80%, #fff 80%)
+}
+.button--itzel::before,
+.center_line.light,
+.tabs_about .graybtn,
+.testimonials_carousel,
+.testimonials .carousel-indicators .photo_carousel_ind.active,
+.about_columns .list .menu_list {
+    border-color: #fff
+}
+/* !------ SVG ------
+   ================================================== */
+
+.photo_carousel .right_arrow svg,
+#testimonials .right_arrow svg,
+.photo_carousel .left_arrow svg,
+#testimonials .left_arrow svg,
+#home_slider .left_arrow:hover,
+#home_slider .right_arrow:hover {
+    fill: #fff
+}
+/* !------------------------------ Black color #000 ------------------------------
+   ================================================== */
+
+a,
+a:hover,
+.first_title,
+.panel a,
+.reservation,
+.reservation_button,
+.contact_icon:hover,
+footer,
+.cs-skin-border .cs-selected span::after,
+.navbar_bg .active a,
+.accommodation_reservation,
+a.navicon,
+.menu p,
+.contact_information,
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover,
+.panel-collapse p b {
+    color: #000
+}
+.eventime_button:hover,
+.navicon .button--itzel,
+.navicon .button__icon {
+    color: #000 !important
+}
+
+.reservation_button:hover,
+.navbar_bg_dark,
+.navbar-toggle .icon-bar {
+    background-color: #000
+}
+.reservation .first_line,
+footer .first_line,
+.accommodation_item,
+.menu-wrap a,
+.reservation_button {
+    border-color: #000
+}
+/* !------------------------------ Gray color #838383 ------------------------------
+   ================================================== */
+
+.button--itzel.dark,
+.accordion_right,
+.button--itzel.dark::before,
+span.sizearea,
+.photo_carousel_ind {
+    border-color: #838383
+}
+/* !------ SVG ------
+   ================================================== */
+
+#sh_carousel .right_arrow svg,
+#sh_carousel .left_arrow svg,
+.light .right_arrow svg,
+.light .left_arrow svg {
+    fill: #838383
+}
+.button--itzel.dark .button__icon,
+.button--itzel.dark,
+.graytxt,
+.panel-collapse p,
+.arrow_right,
+.copyright,
+.arrow_left,
+span.sizearea,
+.footer .link,
+footer,
+.navbar_bg a {
+    color: #838383
+}
+/* !------------------------------ Background settings | Transparents in RGBA and Background images ------------------------------
+   ================================================== */
+
+.nav_mask{
+    background: #fff;
+}
+
+
+.menu-button {
+    background: rgba(0, 0, 0, 0.8)
+}
+.nav_mask_full {
+    background: rgba(0, 0, 0, 1)
+}
+.fill_mask,
+.restaurant_mask {
+    background: -moz-linear-gradient(45deg, rgba(0, 0, 0, 0.5) 0%, rgba(50, 50, 50, 0.2) 100%);
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(0, 0, 0, 0.5)), color-stop(100%, rgba(50, 50, 50, 0.2)));
+    background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 0.5) 0%, rgba(50, 50, 50, 0.2) 100%);
+    background: -o-linear-gradient(45deg, rgba(0, 0, 0, 0.5) 0%, rgba(50, 50, 50, 0.2) 100%);
+    background: -ms-linear-gradient(45deg, rgba(0, 0, 0, 0.5) 0%, rgba(50, 50, 50, 0.2) 100%);
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.5) 0%, rgba(50, 50, 50, 0.2) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#66838383', GradientType=1);
+}
+.mask {
+    background: -moz-linear-gradient(45deg, rgba(0, 0, 0, 0.7) 0%, rgba(50, 50, 50, 0.5) 100%);
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(0, 0, 0, 0.7)), color-stop(100%, rgba(50, 50, 50, 0.5)));
+    background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 0.7) 0%, rgba(50, 50, 50, 0.5) 100%);
+    background: -o-linear-gradient(45deg, rgba(0, 0, 0, 0.7) 0%, rgba(50, 50, 50, 0.5) 100%);
+    background: -ms-linear-gradient(45deg, rgba(0, 0, 0, 0.7) 0%, rgba(50, 50, 50, 0.5) 100%);
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.7) 0%, rgba(50, 50, 50, 0.5) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#66838383', GradientType=1);
+    /*background: rgba(0,214,182,1);background:-moz-linear-gradient(45deg,rgba(0,214,182,1) 0%,rgba(4,147,199,1) 100%);background:-webkit-gradient(left bottom,right top,color-stop(0%,rgba(0,214,182,1)),color-stop(100%,rgba(4,147,199,1)));background:-webkit-linear-gradient(45deg,rgba(0,214,182,1) 0%,rgba(4,147,199,1) 100%);background:-o-linear-gradient(45deg,rgba(0,214,182,1) 0%,rgba(4,147,199,1) 100%);background:-ms-linear-gradient(45deg,rgba(0,214,182,1) 0%,rgba(4,147,199,1) 100%);background:linear-gradient(45deg,rgba(0,214,182,1) 0%,rgba(4,147,199,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00d6b6',endColorstr='#0493c7',GradientType=1 );*/
+}
+.mask_r_transparate {
+    background: -moz-linear-gradient(45deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%);
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(0, 0, 0, 0.7)), color-stop(100%, rgba(0, 0, 0, 0)));
+    background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0) 100%);
+    background: -o-linear-gradient(45deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%);
+    background: -ms-linear-gradient(45deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#66838383', GradientType=1);
+}
+/* ===[ Images ]=== */
+
+#accommodation_menu {
+    background-image: url('../images/accommodation.svg')
+}
+
+.news {
+    background-image: url('../images/news.svg')
+}
+.gallery {
+    background-image: url('../images/bg_gallery.jpg')
+}
+.contact {
+    background-image: url('../images/contacts.svg')
+}
+.tab-content {
+    background: #838383
+}
+#testimonials {
+    background-image: url('../images/fotoPagina5.jpg');
+    background-repeat: repeat-y;
+    background-size: contain !important;
+    background-size: 100% !important;
+    /* background: rgb(204,167,112);background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjY2NhNzcwIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2NjYjg5ZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);background:-moz-linear-gradient(45deg,rgba(204,167,112,1) 0%,rgba(204,184,157,1) 100%);background:-webkit-gradient(linear,left bottom,right top,color-stop(0%,rgba(204,167,112,1)),color-stop(100%,rgba(204,184,157,1)));background:-webkit-linear-gradient(45deg,rgba(204,167,112,1) 0%,rgba(204,184,157,1) 100%);background:-o-linear-gradient(45deg,rgba(204,167,112,1) 0%,rgba(204,184,157,1) 100%);background:-ms-linear-gradient(45deg,rgba(204,167,112,1) 0%,rgba(204,184,157,1) 100%);background:linear-gradient(45deg,rgba(204,167,112,1) 0%,rgba(204,184,157,1) 100%);filter:progid: DXImageTransform.Microsoft.gradient( startColorstr='#cca770',endColorstr='#ccb89d',GradientType=1 );*/
+}
