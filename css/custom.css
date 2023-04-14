@@ -300,6 +300,12 @@ button {
     -webkit-transition-delay: 0s;
     transition-delay: 0s;
 }
+
+.micro_gap {
+    height: 1px;
+    clear: both;
+}
+
 .gap {
     height: 50px;
     clear: both;
