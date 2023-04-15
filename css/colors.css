@@ -296,7 +296,7 @@ footer,
     background-image: url('../images/news.svg')
 }
 .gallery {
-    background-image: url('../images/bg_gallery.jpg')
+    /* background-image: url('../images/bg_gallery.jpg') */
 }
 .contact {
     background-image: url('../images/contacts.svg')
